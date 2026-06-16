@@ -10,7 +10,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 # =============================================================================
 # HARDCODED API KEYS
 # =============================================================================
-TELEGRAM_BOT_TOKEN = "8844274749:AAG4hgPgNdmvqeqTw_yhd5xyg5sHrVQUUg0"
+TELEGRAM_BOT_TOKEN = "8933438428:AAFwQTmQvSMVg7Id_5cyR2o695r7CcO4K9Q"
 GROQ_API_KEY = "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"
 OPENAI_API_KEY = "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"
 GEMINI_API_KEY = "AQ.Ab8RN6Jgqbj78TWX18OkHio4_qX2qhfyUjbNhTwNVay1dr3mrw"
